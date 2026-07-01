@@ -13,7 +13,13 @@ Building full-stack products end to end with React, FastAPI, and PostgreSQL, wit
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Tech Stack" width="800" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nextjs,html,css,tailwind,fastapi,nodejs,express,mongodb,postgres,tensorflow,pytorch,git,github,githubactions,docker,nginx,postman,vscode&perline=12" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Tech Stack Banner" width="800" />
 </p>
 
 <br>
