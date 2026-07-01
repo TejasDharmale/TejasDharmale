@@ -18,10 +18,6 @@ Building full-stack products end to end with React, FastAPI, and PostgreSQL, wit
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Tech Stack Banner" width="800" />
-</p>
-
 <br>
 
 ### 💼 Featured Projects
@@ -51,4 +47,4 @@ Building full-stack products end to end with React, FastAPI, and PostgreSQL, wit
 
 ![Profile views](https://komarev.com/ghpvc/?username=TejasDharmale&color=brightgreen&style=flat)
 
-</div>****
+</div>
