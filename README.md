@@ -22,7 +22,7 @@ Building full-stack products end to end with React, FastAPI, and PostgreSQL, wit
 
 ### 💼 Featured Projects
 
-- **Labscheck** — Full-stack product built end to end with React and FastAPI, modular microservices for core business workflows, PostgreSQL schema optimization, and CI/CD pipelines via GitHub Actions, Docker, and NGINX *(Software Engineer, current)*
+- **[Labscheck](https://www.labscheck.com/)** — A healthtech platform that lets users compare diagnostic lab test prices across 12,000+ verified pathology labs in India and book tests online. 
 - **[WyseReports](https://wysereports.com)** — AI-powered full-stack reporting platform (React, Next.js, FastAPI, PostgreSQL, Gemini API)
 - **[Agrisense](https://agrisense-frontend.vercel.app)** — Real-time IoT & ML platform for agriculture (Next.js, Flask, Python, LightGBM)
 
